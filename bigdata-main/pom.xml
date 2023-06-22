@@ -38,7 +38,7 @@
     <joda.version>2.10.10</joda.version>
     <junit.version>4.13.1</junit.version>
     <libraries-bom.version>24.2.0</libraries-bom.version>
-    <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
+    <maven-compiler-plugin.version>3.5.0</maven-compiler-plugin.version>
     <maven-exec-plugin.version>1.6.0</maven-exec-plugin.version>
     <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
     <maven-shade-plugin.version>3.1.0</maven-shade-plugin.version>
