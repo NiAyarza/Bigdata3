@@ -27,7 +27,7 @@
 
   <packaging>jar</packaging>
 
-  <properties>
+    <properties>
     <beam.version>2.37.0</beam.version>
 
     <bigquery.version>v2-rev20211129-1.32.1</bigquery.version>
@@ -38,7 +38,7 @@
     <joda.version>2.10.10</joda.version>
     <junit.version>4.13.1</junit.version>
     <libraries-bom.version>24.2.0</libraries-bom.version>
-    <maven-compiler-plugin.version>3.5.0</maven-compiler-plugin.version>
+    <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
     <maven-exec-plugin.version>1.6.0</maven-exec-plugin.version>
     <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
     <maven-shade-plugin.version>3.1.0</maven-shade-plugin.version>
@@ -46,7 +46,7 @@
     <pubsub.version>v1-rev20211130-1.32.1</pubsub.version>
     <slf4j.version>1.7.30</slf4j.version>
     <spark.version>2.4.8</spark.version>
-    <hadoop.version>3.3.5</hadoop.version>
+    <hadoop.version>2.10.1</hadoop.version>
     <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
     <nemo.version>0.1</nemo.version>
     <flink.artifact.name>beam-runners-flink-1.13</flink.artifact.name>
